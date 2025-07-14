@@ -1,2 +1,2 @@
 # Digital-Vault
-A simple Diary Softwares that ensures Privacy for the user
+I am building this project to implement closure in JavaScript in real WorldSoftware. 
